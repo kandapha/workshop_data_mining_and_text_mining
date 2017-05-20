@@ -1,0 +1,9 @@
+!.gitignore
+
+venv/
+output?/
+.ipynb_checkpoints/
+*.pyc
+
+*.swp
+
